@@ -1,4 +1,4 @@
-# Amityn MVP -- Software Requirements Specification (SRS)
+# Amityn MVP – Software Requirements Specification (SRS)
 
 ## 1. Introduction
 
@@ -15,13 +15,13 @@ Amityn MVP will provide:
 - Geolocation-based browsing (city / postal code prefix)
 - A clean, welcoming interface for browsing and reading profiles
 
-Amityn does **not** (in the MVP) include in-app messaging, events, or gamification. These features may be introduced in post-MVP iterations.
+Amityn does **not** (in the MVP) include in-app messaging or events. These features may be introduced in post-MVP iterations.
 
 ### 1.3 Definitions
 
 - **User**: A registered account holder on Amityn.
 - **Profile**: The public-facing set of information about a user.
-- \*Interest\*\*: A tagged passion, hobby, or value associated with a user's profile.
+- **Interest**: A tagged passion, hobby, or value associated with a user's profile.
 - **Discovery**: The browsing/searching process for finding others on Amityn.
 - **Community (post-MVP)**: A user-created group centered around location, interests, or causes.
 
